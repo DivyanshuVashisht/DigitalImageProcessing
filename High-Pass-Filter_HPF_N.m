@@ -1,8 +1,4 @@
-%reg no. - 19BCN7234
-%Name - DIVYANSHU VASHISHT
-%LAB - 57-58
-%DATE - 06th march 2021
-%Exp3 - How HPF is used as sharpening filter.
+%How HPF is used as sharpening filter.
 %Sharpening the image
 clc;
 clear all;
