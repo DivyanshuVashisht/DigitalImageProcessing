@@ -1,8 +1,4 @@
-%reg no. - 19BCN7234
-%Name - DIVYANSHU VASHISHT
-%LAB - 57-58
-%DATE - 06th march 2021
-%Exp3 - Apply Weighted Average Noise filter with different masks.
+%Apply Weighted Average Noise filter with different masks.
 clc;
 clear all;
 close all;
