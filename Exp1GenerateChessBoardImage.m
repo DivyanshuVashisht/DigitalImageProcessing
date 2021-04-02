@@ -1,8 +1,4 @@
-%regNo. - 19BCN7234
-%Name - DIVYANSHU VASHISHT
-%lab - 57-58
-%DATE - 13th Feb 2021
-%Exp1 - Generation of ChessBoardImage
+% Generation of ChessBoardImage
 clc;
 clear all;
 TILE = [255 0 255 0 255 0 255 0;
