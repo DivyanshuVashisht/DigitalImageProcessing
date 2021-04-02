@@ -1,6 +1,3 @@
-%REGNO>19BCN7234
-%NAME>DIVYANSHU VASHISHT
-%LAB-57-58
 %Edge of an image using sobel edge detection algorithm
 clc;
 clear all;
