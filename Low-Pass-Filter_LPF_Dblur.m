@@ -1,8 +1,4 @@
-%reg no. - 19BCN7234
-%Name - DIVYANSHU VASHISHT
-%LAB - 57-58
-%DATE - 06th march 2021
-%Exp3 - Blurring and Deblurring an image
+%Blurring and Deblurring an image
 %Write down code for blurring and de-blurring of a gray scale images;
 %compare in terms of PSNR between blurring and de-blurring images
 clc;
