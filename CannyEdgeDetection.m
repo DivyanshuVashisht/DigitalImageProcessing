@@ -1,6 +1,4 @@
-%REGNO>19BCN7234
-%NAME>DIVYANSHU VASHISHT
-%LAB-57-58
+
 %Edge detection using Canny Edge detection method
 clc;
 clear all;
