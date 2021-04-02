@@ -1,8 +1,4 @@
-%regNo. - 19BCN7234
-%Name - DIVYANSHU VASHISHT
-%lab - 57-58
-%DATE - 13th Feb 2021
-%Exp1 - Image Rotation
+%Image Rotation
 clc;
 clear all;
 I = imread("TestImage1.jpg");
